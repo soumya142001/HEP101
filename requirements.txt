@@ -1,7 +1,9 @@
+atlasopenmagic
 numpy
 matplotlib
-scipy
-pandas
-awkward
+matplotlib-inline
 uproot
-jupyter
+awkward
+vector
+scipy
+requests
